@@ -1,3 +1,6 @@
+# Uferdig.
+
+
 class SudokuMaker:
     def __init__(self):
         self.board = self.new_board()
